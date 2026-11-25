@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\teddy\\Desktop\\Laba8_CRUD\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{824FF11D-D85B-499C-8C2B-2FEBFC3F6057}|Laba8_CRUD\\Laba8_CRUD.csproj|c:\\users\\teddy\\desktop\\laba8_crud\\laba8_crud\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{824FF11D-D85B-499C-8C2B-2FEBFC3F6057}|Laba8_CRUD\\Laba8_CRUD.csproj|solutionrelative:laba8_crud\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{824FF11D-D85B-499C-8C2B-2FEBFC3F6057}|Laba8_CRUD\\Laba8_CRUD.csproj|C:\\Users\\teddy\\Desktop\\Laba8_CRUD\\laba8_crud\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{824FF11D-D85B-499C-8C2B-2FEBFC3F6057}|Laba8_CRUD\\Laba8_CRUD.csproj|solutionrelative:laba8_crud\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{824FF11D-D85B-499C-8C2B-2FEBFC3F6057}|Laba8_CRUD\\Laba8_CRUD.csproj|c:\\users\\teddy\\desktop\\laba8_crud\\laba8_crud\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{824FF11D-D85B-499C-8C2B-2FEBFC3F6057}|Laba8_CRUD\\Laba8_CRUD.csproj|solutionrelative:laba8_crud\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 11,
+          "SelectedChildIndex": 12,
           "Children": [
             {
               "$type": "Bookmark",
@@ -66,7 +66,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\teddy\\Desktop\\Laba8_CRUD\\Laba8_CRUD\\Form1.cs",
               "RelativeDocumentMoniker": "Laba8_CRUD\\Form1.cs",
@@ -79,14 +79,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
               "DocumentMoniker": "C:\\Users\\teddy\\Desktop\\Laba8_CRUD\\Laba8_CRUD\\Form1.cs",
               "RelativeDocumentMoniker": "Laba8_CRUD\\Form1.cs",
               "ToolTip": "C:\\Users\\teddy\\Desktop\\Laba8_CRUD\\Laba8_CRUD\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
               "RelativeToolTip": "Laba8_CRUD\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-19T13:00:55.388Z"
+              "WhenOpened": "2026-11-19T13:00:55.388Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]"
             }
           ]
         },

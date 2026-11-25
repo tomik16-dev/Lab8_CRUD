@@ -44,6 +44,8 @@
             labelStatus = new Label();
             buttonExport = new Button();
             buttonCancel = new Button();
+            textBox1 = new TextBox();
+            label1 = new Label();
             ((System.ComponentModel.ISupportInitialize)dataGridViewStudents).BeginInit();
             ((System.ComponentModel.ISupportInitialize)numericAge).BeginInit();
             ((System.ComponentModel.ISupportInitialize)numericGrade).BeginInit();
@@ -200,11 +202,29 @@
             buttonCancel.UseVisualStyleBackColor = true;
             buttonCancel.Click += buttonCancel_Click;
             // 
+            // textBox1
+            // 
+            textBox1.Location = new Point(463, 121);
+            textBox1.Name = "textBox1";
+            textBox1.Size = new Size(176, 23);
+            textBox1.TabIndex = 16;
+            // 
+            // label1
+            // 
+            label1.AutoSize = true;
+            label1.Location = new Point(463, 94);
+            label1.Name = "label1";
+            label1.Size = new Size(100, 15);
+            label1.TabIndex = 17;
+            label1.Text = "ПОИСК ПО ФИО";
+            // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(1098, 698);
+            Controls.Add(label1);
+            Controls.Add(textBox1);
             Controls.Add(buttonCancel);
             Controls.Add(buttonExport);
             Controls.Add(labelStatus);
@@ -250,5 +270,7 @@
         private Label labelStatus;
         private Button buttonExport;
         private Button buttonCancel;
+        private TextBox textBox1;
+        private Label label1;
     }
 }
